@@ -33,7 +33,7 @@ resource "aws_instance" "web" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "sdsda-1"
+    Name = "dafads1"
 
 
   }
